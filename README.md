@@ -1,4 +1,4 @@
-# word-day-tracker
+# worK-day-tracker
 
 ## Description
 This project is a work day planner that will allow the users text to be storage within the local storage for future use.  The page is color coded based on the time of day if the time is outside of normal business hours the text slot will appear grey. If the time is current it will appear red and if the time has not arrived the text slot will appear green. 
